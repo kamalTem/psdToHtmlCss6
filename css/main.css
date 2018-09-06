@@ -1,0 +1,191 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%; }
+
+h2 {
+  margin-top: 40px;
+  font-family: "Baron Neue";
+  font-size: 45px;
+  font-weight: bold;
+  color: #1a2631;
+  letter-spacing: 0.9px;
+  text-transform: uppercase; }
+
+h3 {
+  font-family: "Baron Neue";
+  font-size: 45px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #ffffff;
+  letter-spacing: 2.6px;
+  text-align: center; }
+
+h5 {
+  text-transform: uppercase;
+  margin-top: 40px;
+  font-family: "Baron Neue";
+  font-size: 14px;
+  font-weight: 400;
+  color: #1a2631;
+  letter-spacing: 1.68px;
+  text-align: center; }
+
+P {
+  margin-top: 40px;
+  font-family: "Aktiv Grotesk";
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 23px;
+  color: #6c6c6c;
+  letter-spacing: 2.1px; }
+
+.header {
+  background: url("../img/bg.png");
+  height: 100%;
+  padding-bottom: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.one {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: #F3F3F3; }
+  .one .one-img img {
+    width: 100%; }
+  .one .one-text {
+    margin-top: 50px; }
+    .one .one-text a {
+      margin-top: 40px;
+      color: #1A2631;
+      font-family: "Baron Neue";
+      font-size: 13px;
+      font-weight: bold;
+      letter-spacing: 1.56px; }
+
+.three {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: #F3F3F3; }
+  .three .three-img img {
+    width: 100%; }
+  .three .three-text {
+    margin-top: 80px; }
+    .three .three-text img {
+      margin-left: 30%;
+      width: 35%;
+      margin-top: 30px; }
+
+.four {
+  margin-top: 120px;
+  margin-bottom: 120px; }
+  .four h2 {
+    text-align: center; }
+  .four .four-container-full {
+    color: #000 !important;
+    background-color: #f1f1f1 !important; }
+    .four .four-container-full .four-container-Notfull {
+      color: #fff !important;
+      background-color: #000 !important; }
+
+.five {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: #F3F3F3; }
+  .five p {
+    margin-top: 0; }
+  .five .left-p {
+    text-align: right; }
+  .five .five-img-small {
+    margin-top: 60px; }
+
+.six {
+  margin-top: 120px;
+  margin-bottom: 120px; }
+  .six h2 {
+    text-align: center; }
+  .six img {
+    margin-top: 40px;
+    width: 100%; }
+  .six h5 {
+    text-align: left; }
+  .six a {
+    margin-top: 40px;
+    color: #1A2631;
+    font-family: "Baron Neue";
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 1.56px;
+    text-decoration: none; }
+    .six a:hover {
+      color: #B5B5B5; }
+
+.seven {
+  background: #F3F3F3;
+  padding-top: 120px;
+  padding-bottom: 120px; }
+  .seven .vector p {
+    margin-top: -40%;
+    font-size: 20px;
+    text-align: center; }
+  .seven .vector img {
+    width: 100%;
+    margin-top: 10%; }
+  .seven .seven-img .seven-img-text {
+    margin-top: 30%; }
+    .seven .seven-img .seven-img-text img {
+      margin-top: 20%; }
+  .seven .seven-img img {
+    width: 120%; }
+
+.contact {
+  margin-top: 120px;
+  margin-bottom: 120px; }
+  .contact h2 {
+    text-align: center; }
+  .contact .form {
+    margin-left: 7%; }
+  .contact .form-input {
+    width: 1000px;
+    height: 60px;
+    margin-top: 40px;
+    background: #EFEFEF;
+    border: none; }
+  .contact .button {
+    background: white;
+    border: none;
+    font-family: "Baron Neue Bold";
+    font-size: 16px;
+    margin-top: 40px;
+    font-weight: 400;
+    line-height: 23px;
+    color: #c0c0c0;
+    cursor: pointer; }
+    .contact .button:hover {
+      color: #1a2631; }
+  .contact input::-webkit-input-placeholder {
+    font-family: "Baron Neue Bold";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+    color: #c0c0c0;
+    letter-spacing: 1.96px;
+    padding-left: 5%; }
+
+.footer {
+  background: #F3F3F3;
+  padding-top: 50px;
+  padding-bottom: 50px; }
+  .footer i {
+    margin-right: 10px; }
+  .footer p {
+    margin-top: 10px; }
+    .footer p span {
+      color: black; }
+  .footer img {
+    float: right;
+    margin-top: 10px; }
+
+/*# sourceMappingURL=main.css.map */
